@@ -1,0 +1,15 @@
+.found-icons{
+    font-size: 50px;
+    color: #73B925;
+}
+.fund-raised{
+    /* display: flex; */
+    text-align: center;
+}
+.fund-raised h1{
+    color: #73B925;
+}
+.babyPlantation{
+    background-color:#F4F6F1;
+    width: 100%;
+}

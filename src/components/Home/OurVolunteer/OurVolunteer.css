@@ -1,0 +1,48 @@
+ 
+   
+  .volunteer-card{ 
+      border: 1px solid gray;
+
+  }
+  .people-img img{ 
+      width: 150px;
+      height: 150px;
+      margin-top: -20px;
+      margin-left: 40px;
+       border-radius: 50%;
+      -webkit-border-radius: 50;
+      -moz-border-radius: 50;
+      -ms-border-radius: 50;
+      -o-border-radius: 50;
+}
+ 
+.volunteer{
+    color: #73B925;
+}
+.volunteer-card:hover{
+    background-color: #7EBF35;
+    color: white;
+}
+.volunteer-card:hover .volunteer{
+    color: white!important;
+}
+.volunteer-card:hover .volunteer-icons{
+    background-color: gray !important;
+     
+}
+.volunteer-icons{ 
+    width: 30px;
+    text-align:center;
+    padding: 0;
+    height: 30px;
+    margin: 5px;
+    background-color:#73B925;
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+ 

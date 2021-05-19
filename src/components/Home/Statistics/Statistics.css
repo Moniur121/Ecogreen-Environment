@@ -1,0 +1,14 @@
+.statistics-primary-color{
+    background-color: #7EBF35;
+     width: 100%;
+     min-height: 600px;
+}
+.statistics-icons{
+    font-size: 60px;
+}
+.statistics-card{
+    background-color: rgba(255, 255, 255, 0.233)!important;
+    color: white;
+    width: 250px;
+     
+}

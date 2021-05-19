@@ -1,0 +1,19 @@
+.similar-card{
+    text-align:justify;
+}
+.top-title{
+    width: 100px;
+    height: 30px;
+    background-color: #D7F1B9;
+    color: #73B925;
+    padding: 5px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+.volunteer-area{
+    text-align:justify;
+    margin-top: 110px;
+}
