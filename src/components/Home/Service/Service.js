@@ -16,7 +16,7 @@ const Service = () => {
                          </div>
                         <div class="card-body">
                             <h4 class="card-title">Recyling</h4>
-                            <p class="card-text text-muted">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
+                            <p class="card-text ">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,7 @@ const Service = () => {
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Water Refine</h4>
-                            <p class="card-text text-muted">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
+                            <p class="card-text ">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ const Service = () => {
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Ecosystem</h4>
-                            <p class="card-text text-muted">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
+                            <p class="card-text ">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@ const Service = () => {
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Solar Energy</h4>
-                            <p class="card-text text-muted">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
+                            <p class="card-text ">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@ const Service = () => {
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Save Animals</h4>
-                            <p class="card-text text-muted">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
+                            <p class="card-text ">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                         </div>
                     </div>
                 </div>

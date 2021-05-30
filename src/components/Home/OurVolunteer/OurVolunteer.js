@@ -30,7 +30,7 @@ const OurVolunteer = () => {
                                     <a className="volunteer-icons" href="http://" target="_blank" rel="noopener noreferrer"><FaGithub className="text-light"></FaGithub></a>
                                      
                                 </div>
-                                <p class="card-text text-muted">I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                                <p class="card-text ">I am an ambitious workaholic, but apart from that, pretty simple person.</p>
                             </div>
                         </div>
                     </div>
@@ -48,7 +48,7 @@ const OurVolunteer = () => {
                                     <a className="volunteer-icons" href="http://" target="_blank" rel="noopener noreferrer"><FaTwitter className="text-light"></FaTwitter></a>
                                     <a className="volunteer-icons" href="http://" target="_blank" rel="noopener noreferrer"><FaGithub className="text-light"></FaGithub></a>
                                 </div>
-                                <p class="card-text text-muted">I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                                <p class="card-text ">I am an ambitious workaholic, but apart from that, pretty simple person.</p>
                             </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@ const OurVolunteer = () => {
                                     <a className="volunteer-icons" href="http://" target="_blank" rel="noopener noreferrer"><FaTwitter className="text-light"></FaTwitter></a>
                                     <a className="volunteer-icons" href="http://" target="_blank" rel="noopener noreferrer"><FaGithub className="text-light"></FaGithub></a>
                                 </div>
-                                <p class="card-text text-muted">I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                                <p class="card-text ">I am an ambitious workaholic, but apart from that, pretty simple person.</p>
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ const OurVolunteer = () => {
                                     <a className="volunteer-icons" href="http://" target="_blank" rel="noopener noreferrer"><FaTwitter className="text-light"></FaTwitter></a>
                                     <a className="volunteer-icons" href="http://" target="_blank" rel="noopener noreferrer"><FaGithub className="text-light"></FaGithub></a>
                                 </div>
-                                <p class="card-text text-muted">I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                                <p class="card-text ">I am an ambitious workaholic, but apart from that, pretty simple person.</p>
                             </div>
                         </div>
                     </div>
