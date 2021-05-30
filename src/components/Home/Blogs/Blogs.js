@@ -13,6 +13,7 @@ const Blogs = () => {
                 <div className="container">
                     <div className="project-people text-center mt-5 mb-5">
                         <h4 style={{ color: '#73B925' }}>Our Blogs</h4>
+                        <div className="commonBorder"></div>
                         <h1>Recent From Blog's</h1>
                     </div>
                     <div className="row">

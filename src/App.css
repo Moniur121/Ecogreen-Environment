@@ -1,3 +1,9 @@
 body{
   background-color:#F4F6F1;
 }
+.commonBorder{
+  width: 120px;
+  height:4px;
+  background: black;
+  margin: 10px auto;
+}

@@ -6,6 +6,7 @@ const Service = () => {
         <div className="container" id="service">
             <div className="service-people text-center mt-5 mb-5">
                 <h4 style={{color: '#73B925'}}>Service</h4>
+                <div className="commonBorder"></div>
                 <h1>Over <span style={{color: '#73B925'}}>40k+</span>people working<br/> with us</h1>
             </div>
             <div class="row row-cols-1 row-cols-md-4 g-4">

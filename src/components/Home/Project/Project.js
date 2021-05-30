@@ -13,6 +13,7 @@ const Project = () => {
                 <div>
                     <div className="project-people text-center mt-5 mb-5">
                         <h4 style={{ color: '#73B925' }}>Project</h4>
+                        <div className="commonBorder"></div>
                         <h1>Our Campaign</h1>
                     </div>
                     <div className="row">
